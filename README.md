@@ -142,20 +142,20 @@ ENTITY RELATIONSHIP DIAGRAM
 
 The privileges allowed to the Hostel Admin are
 
-~To add new hostel and rooms
-~To delete hostel and rooms
-~To decide number of occupants per room and the cost
-~To view all student who have booked
-~To view all student who have payed fully and partially
-~To delete students when after every semester
-~To view all booked rooms per hostel
+- To add new hostel and rooms
+- To delete hostel and rooms
+- To decide number of occupants per room and the cost
+- To view all student who have booked
+- To view all student who have payed fully and partially
+- To delete students when after every semester
+- To view all booked rooms per hostel
 
 Hostel Admin is the one who maintains the complete database of students,maintain rooms as well as payments.
 
 The privileges allowed to the Hostel students are
 
-~To view nonBooked rooms and hostel
-~To book a room of their choice if not fully booked
-~To pay for the room
-~To check their remaining balance
-~To view their room & hostel details
+- To view nonBooked rooms and hostel
+- To book a room of their choice if not fully booked
+- To pay for the room
+- To check their remaining balance
+- To view their room & hostel details
